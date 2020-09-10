@@ -3,7 +3,7 @@ A server side rendering React application which displays all the space missions.
 
 ## Getting started
 Clone the repo with
-```git clone https://github.com/alexnm/react-ssr```
+````https://github.com/shreya0721/Space-X-Program```
 
 Install dependencies with
 ```npm i```

@@ -17,7 +17,7 @@ Now open the browser and navigate to `http://localhost:2048` and you get your se
 The application is designed keeping in mind all the device specifications  
 
 - @media (min-width: 1025px) and (max-width: 1280px) // Device = Laptops, Desktops,  Screen = B/w 1025px to 1280px
-- @media (min-width: 768px) and (max-width: 1024px) // Device = Tablets, Ipads (portrait) ,Screen = B/w 768px to 1024px
-- @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) // Device = Tablets, Ipads (landscape), Screen = B/w 768px to 1024px
-- @media (min-width: 481px) and (max-width: 767px) // Device = Low Resolution Tablets, Mobiles (Landscape), Screen = B/w 481px to 767px
-- @media (min-width: 320px) and (max-width: 480px) // Device = Most of the Smartphones Mobiles (Portrait), Screen = B/w 320px to 479px
+- @media (min-width: 768px) and (max-width: 1024px) // Device = Tablets, Ipads (portrait) ,Screen = Between 768px to 1024px
+- @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) // Device = Tablets, Ipads (landscape), Screen = Between 768px to 1024px
+- @media (min-width: 481px) and (max-width: 767px) // Device = Low Resolution Tablets, Mobiles (Landscape), Screen = Between 481px to 767px
+- @media (min-width: 320px) and (max-width: 480px) // Device = Most of the Smartphones Mobiles (Portrait), Screen = Between 320px to 479px
